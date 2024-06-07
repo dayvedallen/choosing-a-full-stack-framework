@@ -11,7 +11,8 @@
     "dev": "turbo run dev --parallel"
   },
   "devDependencies": {
-    "turbo": "latest"
+    "turbo": "latest",
+    "typescript": "4.8.4"
   },
   "engines": {
     "node": ">=14.0.0"
